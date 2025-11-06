@@ -1,4 +1,4 @@
-# 🤖 TP4 – Prédiction du Diabète (Keras / TensorFlow)
+#   Prédiction du Diabète (Keras / TensorFlow)
 
 Ce projet met en œuvre un **réseau de neurones artificiels (ANN)** simple pour prédire la probabilité qu’un patient soit atteint de diabète, en utilisant le **jeu de données Pima Indians Diabetes**.
 
